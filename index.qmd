@@ -1,9 +1,3 @@
-# Preface {.unnumbered}
+# 4주차 해결지향소통 {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+이것저것 노하우

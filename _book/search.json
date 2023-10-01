@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "practtest",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "4주차 해결지향소통\n이것저것 노하우"
   },
   {
     "objectID": "intro.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "2  Netlify 연동할 때",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
