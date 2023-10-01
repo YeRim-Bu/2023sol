@@ -1,7 +1,7 @@
 # Netlify 연동할 때
 
-In summary, this book has no content whatsoever.
+-   넷플리파이에서 파일 새로 만들고 file directory에 적을 때 콰트로 북을 넣을 땐 정확히 \_book을 작성할 것.
 
-```{r}
-1 + 1
-```
+-   연동하는 Git파일에는 하나의 콰토 book 파일만 있을 것.
+
+    -   directory를 book으로 설정해서 그런지 book 템플릿이 아니면 제대로 연동하지 못함.

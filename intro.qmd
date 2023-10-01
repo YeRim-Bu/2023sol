@@ -1,9 +1,13 @@
-# Introduction
+# Git 연동할 때
 
-This is a book created from markdown and executable code.
+-   R의 Terminal창에 에 복붙이 안 될 때
 
-See @knuth84 for additional discussion of literate programming.
+    -   ctrl + shift + v
 
-```{r}
-1 + 1
-```
+    -   오른쪽 마우스 -\> paste
+
+-   commit하고 바로 push가 안 될 때엔 pull한 번 눌러 주기
+
+-   현재 파일을 git파일로 설정할 때 파일명들은 최대한 영어로 쓰기
+
+    하지만 그럼에도 모든 시도에 실패하면 과감히 파일을 버리고 새로운 파일과 원격 디렉토리로 다시 시작하자
